@@ -1,4 +1,4 @@
-# PD Team Execution Playbook (Strict Mode)
+# PD Team Execution Playbook 
 
 ---
 
