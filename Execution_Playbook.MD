@@ -146,6 +146,8 @@ Priority order:
 * Never ignore CI
 
 ---
+
+## 10. Templates
 [PR_TEMPLATE](PR_Template.MD) [Bug_TEMPLATE](Bug_Template.MD) [Feature_TEMPLATE](Feature_Template.MD)
 
 
