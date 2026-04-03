@@ -146,5 +146,6 @@ Priority order:
 * Never ignore CI
 
 ---
+[PR_TEMPLATE](PR_template.MD)
 
-# End
+
